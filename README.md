@@ -16,4 +16,4 @@ Torrents for disc based ROM sets, including:
   * Playstation
   * PSP^
 
-I will seed these for as long as possible; items marked with ^ have global seeders.
+I will seed these for as long as possible; items marked with ^ have global seeders. All are based on 1G1R sets, except Wii.
